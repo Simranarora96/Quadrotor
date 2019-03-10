@@ -1,4 +1,4 @@
-# RESL_Assignment
+# Quadrotor
 
 This Repository Contains Two folders:
 1) quadrotor
