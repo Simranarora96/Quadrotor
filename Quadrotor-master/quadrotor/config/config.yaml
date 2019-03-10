@@ -1,0 +1,42 @@
+g: 9.81
+m: 0.5
+L : 0.25
+k : 3e-6
+b : 1e-7
+kd : 0.25
+Ixx : 5e-3
+Iyy : 5e-3
+Izz : 10e-3
+dt: 4
+x: 0
+z: 4
+y: 0
+x_dot: 0
+y_dot: 0
+z_dot: 0
+roll: 0
+pitch: 0
+yaw: 0
+roll_dot: 0
+pitch_dot: 0
+yaw_dot: 0
+time: 4
+r_t_x: 0
+r_t_y: 0
+r_t_z: 0
+theta_t_x: 0
+theta_t_y: 0
+theta_t_z: 0
+Kp_x: 0
+Kp_y: 0
+Kp_z: 0.05
+Kv_x: 0
+Kv_y: 0
+Kv_z: 0.05
+Kw: 0
+Kr: 0
+km: 1.5e-9
+kf : 6.11e-8
+step: "step_service"
+mellinger: "mellinger_service"
+reset:  "reset_service"

@@ -1,0 +1,13 @@
+int64 w1
+int64 w2
+int64 w3
+int64 w4
+int64 N
+---
+geometry_msgs/Vector3 position
+geometry_msgs/Vector3 linear_velocity
+geometry_msgs/Vector3 angular_position
+geometry_msgs/Vector3 angular_velocity
+geometry_msgs/Vector3 linear_acceleration
+geometry_msgs/Vector3 angular_acceleration
+RESL/Rotation rotation_matrix
