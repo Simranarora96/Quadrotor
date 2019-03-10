@@ -1,9 +1,9 @@
 //
 //  quad.h
-//  SUNNY
+//  SIMRAN
 //
-//  Created by Sunny Singh on 2/6/19.
-//  Copyright © 2019 RESL. All rights reserved.
+//  Created by Simran Arora on 2/6/19.
+//  Copyright © 2019 Simran. All rights reserved.
 //
 
 #ifndef quad_h
