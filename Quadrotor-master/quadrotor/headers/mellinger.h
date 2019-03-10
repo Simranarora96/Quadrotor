@@ -2,8 +2,8 @@
 //  mellinger.h
 //  Mellinger
 //
-//  Created by Sunny Singh on 2/25/19.
-//  Copyright © 2019 RESL. All rights reserved.
+//  Created by Simran Arora on 2/25/19.
+//  Copyright © 2019 Simran. All rights reserved.
 //
 
 #ifndef mellinger_h
